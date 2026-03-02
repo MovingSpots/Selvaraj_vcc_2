@@ -146,6 +146,3 @@ By completing this assignment, I gained hands-on experience with:
 Thanks to my instructor and peers for feedback, collaboration support, and review insights!
 
 ***
-“GitHub Pro Style” README
-
-Just tell me!
